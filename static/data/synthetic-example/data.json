@@ -1,0 +1,1570 @@
+{
+  "metadata": {
+    "generated": "2026-01-31",
+    "description": "Synthetic data for demonstration \u2014 fictional items with measured values across categories and size classes",
+    "units": "fictional units",
+    "source": "Generated synthetically (see pipelines/synthetic-example/)"
+  },
+  "items": [
+    {
+      "id": "A001",
+      "name": "Omicron Three",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 39.2,
+      "year": 2023
+    },
+    {
+      "id": "A002",
+      "name": "Flux One",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 26.1,
+      "year": 2023
+    },
+    {
+      "id": "A003",
+      "name": "Pulse Ten",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 38.7,
+      "year": 2023
+    },
+    {
+      "id": "A004",
+      "name": "Relay Seven",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 38.6,
+      "year": 2023
+    },
+    {
+      "id": "A005",
+      "name": "Alpha Minor",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 24.1,
+      "year": 2023
+    },
+    {
+      "id": "A006",
+      "name": "Chi Two",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 24.0,
+      "year": 2023
+    },
+    {
+      "id": "A007",
+      "name": "Psi Ten",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 26.6,
+      "year": 2023
+    },
+    {
+      "id": "A008",
+      "name": "Theta Star",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 14.1,
+      "year": 2023
+    },
+    {
+      "id": "A009",
+      "name": "Omega Ten",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 27.1,
+      "year": 2023
+    },
+    {
+      "id": "A010",
+      "name": "Tau Two",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 12.8,
+      "year": 2023
+    },
+    {
+      "id": "A011",
+      "name": "Nova Five",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 21.1,
+      "year": 2023
+    },
+    {
+      "id": "A012",
+      "name": "Sigma Major",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 26.6,
+      "year": 2023
+    },
+    {
+      "id": "A013",
+      "name": "Vortex Prime",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 27.6,
+      "year": 2023
+    },
+    {
+      "id": "A014",
+      "name": "Spark Four",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 26.6,
+      "year": 2023
+    },
+    {
+      "id": "A015",
+      "name": "Delta Four",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 27.7,
+      "year": 2023
+    },
+    {
+      "id": "A016",
+      "name": "Terra Star",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 24.0,
+      "year": 2023
+    },
+    {
+      "id": "A017",
+      "name": "Orbit Seven",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 25.7,
+      "year": 2023
+    },
+    {
+      "id": "A018",
+      "name": "Spark Nine",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 26.1,
+      "year": 2023
+    },
+    {
+      "id": "A019",
+      "name": "Unity Seven",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 26.4,
+      "year": 2023
+    },
+    {
+      "id": "A020",
+      "name": "Delta Plus",
+      "category": "Type A",
+      "size_class": "Small",
+      "value": 27.4,
+      "year": 2023
+    },
+    {
+      "id": "A021",
+      "name": "Flux Ten",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 49.3,
+      "year": 2023
+    },
+    {
+      "id": "A022",
+      "name": "Ion Nine",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 67.6,
+      "year": 2023
+    },
+    {
+      "id": "A023",
+      "name": "Theta Prime",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 51.8,
+      "year": 2023
+    },
+    {
+      "id": "A024",
+      "name": "Chi Two",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 42.4,
+      "year": 2023
+    },
+    {
+      "id": "A025",
+      "name": "Rho Nine",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 52.7,
+      "year": 2023
+    },
+    {
+      "id": "A026",
+      "name": "Eta Plus",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 45.2,
+      "year": 2023
+    },
+    {
+      "id": "A027",
+      "name": "Omega Minor",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 41.8,
+      "year": 2023
+    },
+    {
+      "id": "A028",
+      "name": "Quark Star",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 44.8,
+      "year": 2023
+    },
+    {
+      "id": "A029",
+      "name": "Beta Two",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 66.9,
+      "year": 2023
+    },
+    {
+      "id": "A030",
+      "name": "Delta Four",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 47.0,
+      "year": 2023
+    },
+    {
+      "id": "A031",
+      "name": "Zeta Major",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 41.4,
+      "year": 2023
+    },
+    {
+      "id": "A032",
+      "name": "Iota Three",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 25.7,
+      "year": 2023
+    },
+    {
+      "id": "A033",
+      "name": "Vortex Seven",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 48.0,
+      "year": 2023
+    },
+    {
+      "id": "A034",
+      "name": "Nu Major",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 50.1,
+      "year": 2023
+    },
+    {
+      "id": "A035",
+      "name": "Quark Eight",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 42.0,
+      "year": 2023
+    },
+    {
+      "id": "A036",
+      "name": "Chi One",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 40.8,
+      "year": 2023
+    },
+    {
+      "id": "A037",
+      "name": "Delta Four",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 45.3,
+      "year": 2023
+    },
+    {
+      "id": "A038",
+      "name": "Chi Two",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 63.4,
+      "year": 2023
+    },
+    {
+      "id": "A039",
+      "name": "Orbit Four",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 46.8,
+      "year": 2023
+    },
+    {
+      "id": "A040",
+      "name": "Pi Minor",
+      "category": "Type A",
+      "size_class": "Medium",
+      "value": 49.6,
+      "year": 2023
+    },
+    {
+      "id": "A041",
+      "name": "Eta Prime",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 63.6,
+      "year": 2023
+    },
+    {
+      "id": "A042",
+      "name": "Eta One",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 58.6,
+      "year": 2023
+    },
+    {
+      "id": "A043",
+      "name": "Eta Four",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 72.4,
+      "year": 2023
+    },
+    {
+      "id": "A044",
+      "name": "Ion Four",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 72.9,
+      "year": 2023
+    },
+    {
+      "id": "A045",
+      "name": "Spark Two",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 40.4,
+      "year": 2023
+    },
+    {
+      "id": "A046",
+      "name": "Alpha Two",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 115.0,
+      "year": 2023
+    },
+    {
+      "id": "A047",
+      "name": "Lambda Seven",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 73.5,
+      "year": 2023
+    },
+    {
+      "id": "A048",
+      "name": "Nova One",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 68.0,
+      "year": 2023
+    },
+    {
+      "id": "A049",
+      "name": "Ion Five",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 71.5,
+      "year": 2023
+    },
+    {
+      "id": "A050",
+      "name": "Orbit Three",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 79.2,
+      "year": 2023
+    },
+    {
+      "id": "A051",
+      "name": "Delta Ten",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 69.7,
+      "year": 2023
+    },
+    {
+      "id": "A052",
+      "name": "Delta Ten",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 47.5,
+      "year": 2023
+    },
+    {
+      "id": "A053",
+      "name": "Pulse Two",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 67.6,
+      "year": 2023
+    },
+    {
+      "id": "A054",
+      "name": "Pi Seven",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 51.0,
+      "year": 2023
+    },
+    {
+      "id": "A055",
+      "name": "Pi Ten",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 69.5,
+      "year": 2023
+    },
+    {
+      "id": "A056",
+      "name": "Quark Six",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 61.7,
+      "year": 2023
+    },
+    {
+      "id": "A057",
+      "name": "Phi Four",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 74.6,
+      "year": 2023
+    },
+    {
+      "id": "A058",
+      "name": "Epsilon One",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 65.1,
+      "year": 2023
+    },
+    {
+      "id": "A059",
+      "name": "Eta Two",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 63.7,
+      "year": 2023
+    },
+    {
+      "id": "A060",
+      "name": "Epsilon Star",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 74.5,
+      "year": 2023
+    },
+    {
+      "id": "A061",
+      "name": "Helix Plus",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 74.9,
+      "year": 2023
+    },
+    {
+      "id": "A062",
+      "name": "Quark One",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 83.0,
+      "year": 2023
+    },
+    {
+      "id": "A063",
+      "name": "Eta Star",
+      "category": "Type A",
+      "size_class": "Large",
+      "value": 68.7,
+      "year": 2023
+    },
+    {
+      "id": "B064",
+      "name": "Tau Ten",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 29.9,
+      "year": 2023
+    },
+    {
+      "id": "B065",
+      "name": "Rho Nine",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 27.7,
+      "year": 2023
+    },
+    {
+      "id": "B066",
+      "name": "Flux Plus",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 31.0,
+      "year": 2023
+    },
+    {
+      "id": "B067",
+      "name": "Rho Three",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 13.8,
+      "year": 2023
+    },
+    {
+      "id": "B068",
+      "name": "Flux Nine",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 28.6,
+      "year": 2023
+    },
+    {
+      "id": "B069",
+      "name": "Kappa Nine",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 45.8,
+      "year": 2023
+    },
+    {
+      "id": "B070",
+      "name": "Spark Three",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 48.7,
+      "year": 2023
+    },
+    {
+      "id": "B071",
+      "name": "Gamma Star",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 17.1,
+      "year": 2023
+    },
+    {
+      "id": "B072",
+      "name": "Spark Star",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 28.1,
+      "year": 2023
+    },
+    {
+      "id": "B073",
+      "name": "Kappa Star",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 26.8,
+      "year": 2023
+    },
+    {
+      "id": "B074",
+      "name": "Core One",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 37.2,
+      "year": 2023
+    },
+    {
+      "id": "B075",
+      "name": "Core Minor",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 28.9,
+      "year": 2023
+    },
+    {
+      "id": "B076",
+      "name": "Eta Seven",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 30.0,
+      "year": 2023
+    },
+    {
+      "id": "B077",
+      "name": "Omicron Four",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 32.4,
+      "year": 2023
+    },
+    {
+      "id": "B078",
+      "name": "Omicron Four",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 27.6,
+      "year": 2023
+    },
+    {
+      "id": "B079",
+      "name": "Chi Five",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 46.9,
+      "year": 2023
+    },
+    {
+      "id": "B080",
+      "name": "Sigma Six",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 36.7,
+      "year": 2023
+    },
+    {
+      "id": "B081",
+      "name": "Beta Two",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 34.9,
+      "year": 2023
+    },
+    {
+      "id": "B082",
+      "name": "Unity Five",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 29.4,
+      "year": 2023
+    },
+    {
+      "id": "B083",
+      "name": "Psi Major",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 51.0,
+      "year": 2023
+    },
+    {
+      "id": "B084",
+      "name": "Terra Four",
+      "category": "Type B",
+      "size_class": "Small",
+      "value": 32.0,
+      "year": 2023
+    },
+    {
+      "id": "B085",
+      "name": "Quark Star",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 84.0,
+      "year": 2023
+    },
+    {
+      "id": "B086",
+      "name": "Nu Six",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 54.7,
+      "year": 2023
+    },
+    {
+      "id": "B087",
+      "name": "Theta Major",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 62.4,
+      "year": 2023
+    },
+    {
+      "id": "B088",
+      "name": "Core Six",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 51.0,
+      "year": 2023
+    },
+    {
+      "id": "B089",
+      "name": "Nova Prime",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 59.4,
+      "year": 2023
+    },
+    {
+      "id": "B090",
+      "name": "Terra Five",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 59.5,
+      "year": 2023
+    },
+    {
+      "id": "B091",
+      "name": "Unity Ten",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 53.6,
+      "year": 2023
+    },
+    {
+      "id": "B092",
+      "name": "Helix Prime",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 58.9,
+      "year": 2023
+    },
+    {
+      "id": "B093",
+      "name": "Lambda Prime",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 63.7,
+      "year": 2023
+    },
+    {
+      "id": "B094",
+      "name": "Wave Six",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 48.8,
+      "year": 2023
+    },
+    {
+      "id": "B095",
+      "name": "Nu Three",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 55.5,
+      "year": 2023
+    },
+    {
+      "id": "B096",
+      "name": "Nexus Ten",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 81.2,
+      "year": 2023
+    },
+    {
+      "id": "B097",
+      "name": "Terra Four",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 35.0,
+      "year": 2023
+    },
+    {
+      "id": "B098",
+      "name": "Apex Four",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 60.1,
+      "year": 2023
+    },
+    {
+      "id": "B099",
+      "name": "Eta Minor",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 64.3,
+      "year": 2023
+    },
+    {
+      "id": "B100",
+      "name": "Quark Eight",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 47.6,
+      "year": 2023
+    },
+    {
+      "id": "B101",
+      "name": "Theta Eight",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 81.2,
+      "year": 2023
+    },
+    {
+      "id": "B102",
+      "name": "Phi Minor",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 47.5,
+      "year": 2023
+    },
+    {
+      "id": "B103",
+      "name": "Pulse Seven",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 53.5,
+      "year": 2023
+    },
+    {
+      "id": "B104",
+      "name": "Nexus Eight",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 62.9,
+      "year": 2023
+    },
+    {
+      "id": "B105",
+      "name": "Sigma Minor",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 49.0,
+      "year": 2023
+    },
+    {
+      "id": "B106",
+      "name": "Tau Four",
+      "category": "Type B",
+      "size_class": "Medium",
+      "value": 55.4,
+      "year": 2023
+    },
+    {
+      "id": "B107",
+      "name": "Zeta Three",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 94.5,
+      "year": 2023
+    },
+    {
+      "id": "B108",
+      "name": "Core Seven",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 88.5,
+      "year": 2023
+    },
+    {
+      "id": "B109",
+      "name": "Delta Four",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 90.0,
+      "year": 2023
+    },
+    {
+      "id": "B110",
+      "name": "Beta Plus",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 87.6,
+      "year": 2023
+    },
+    {
+      "id": "B111",
+      "name": "Nexus One",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 63.9,
+      "year": 2023
+    },
+    {
+      "id": "B112",
+      "name": "Core Nine",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 70.7,
+      "year": 2023
+    },
+    {
+      "id": "B113",
+      "name": "Vortex Star",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 96.8,
+      "year": 2023
+    },
+    {
+      "id": "B114",
+      "name": "Chi Prime",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 83.0,
+      "year": 2023
+    },
+    {
+      "id": "B115",
+      "name": "Lambda Plus",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 85.8,
+      "year": 2023
+    },
+    {
+      "id": "B116",
+      "name": "Apex Ten",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 83.5,
+      "year": 2023
+    },
+    {
+      "id": "B117",
+      "name": "Iota Plus",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 51.7,
+      "year": 2023
+    },
+    {
+      "id": "B118",
+      "name": "Xi Eight",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 56.3,
+      "year": 2023
+    },
+    {
+      "id": "B119",
+      "name": "Nova Five",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 83.6,
+      "year": 2023
+    },
+    {
+      "id": "B120",
+      "name": "Beta Major",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 84.9,
+      "year": 2023
+    },
+    {
+      "id": "B121",
+      "name": "Psi Four",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 88.6,
+      "year": 2023
+    },
+    {
+      "id": "B122",
+      "name": "Pi Four",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 76.5,
+      "year": 2023
+    },
+    {
+      "id": "B123",
+      "name": "Pi Three",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 73.0,
+      "year": 2023
+    },
+    {
+      "id": "B124",
+      "name": "Rho Minor",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 94.3,
+      "year": 2023
+    },
+    {
+      "id": "B125",
+      "name": "Theta Minor",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 81.8,
+      "year": 2023
+    },
+    {
+      "id": "B126",
+      "name": "Upsilon Ten",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 86.6,
+      "year": 2023
+    },
+    {
+      "id": "B127",
+      "name": "Apex Major",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 86.3,
+      "year": 2023
+    },
+    {
+      "id": "B128",
+      "name": "Upsilon Plus",
+      "category": "Type B",
+      "size_class": "Large",
+      "value": 88.2,
+      "year": 2023
+    },
+    {
+      "id": "C129",
+      "name": "Terra Minor",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 18.2,
+      "year": 2023
+    },
+    {
+      "id": "C130",
+      "name": "Omega Two",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 34.2,
+      "year": 2023
+    },
+    {
+      "id": "C131",
+      "name": "Eta Seven",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 23.0,
+      "year": 2023
+    },
+    {
+      "id": "C132",
+      "name": "Ion Major",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 15.8,
+      "year": 2023
+    },
+    {
+      "id": "C133",
+      "name": "Wave Minor",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 16.0,
+      "year": 2023
+    },
+    {
+      "id": "C134",
+      "name": "Ion Seven",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 19.4,
+      "year": 2023
+    },
+    {
+      "id": "C135",
+      "name": "Zeta Five",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 19.1,
+      "year": 2023
+    },
+    {
+      "id": "C136",
+      "name": "Ion Ten",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 21.9,
+      "year": 2023
+    },
+    {
+      "id": "C137",
+      "name": "Mu Eight",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 25.4,
+      "year": 2023
+    },
+    {
+      "id": "C138",
+      "name": "Chi Five",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 21.0,
+      "year": 2023
+    },
+    {
+      "id": "C139",
+      "name": "Nu Two",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 19.9,
+      "year": 2023
+    },
+    {
+      "id": "C140",
+      "name": "Spark Minor",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 20.4,
+      "year": 2023
+    },
+    {
+      "id": "C141",
+      "name": "Beta Two",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 19.3,
+      "year": 2023
+    },
+    {
+      "id": "C142",
+      "name": "Pi Five",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 17.0,
+      "year": 2023
+    },
+    {
+      "id": "C143",
+      "name": "Spark Six",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 17.6,
+      "year": 2023
+    },
+    {
+      "id": "C144",
+      "name": "Upsilon Five",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 19.2,
+      "year": 2023
+    },
+    {
+      "id": "C145",
+      "name": "Mu Four",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 18.2,
+      "year": 2023
+    },
+    {
+      "id": "C146",
+      "name": "Unity Minor",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 24.2,
+      "year": 2023
+    },
+    {
+      "id": "C147",
+      "name": "Omicron Six",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 21.5,
+      "year": 2023
+    },
+    {
+      "id": "C148",
+      "name": "Sigma One",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 10.0,
+      "year": 2023
+    },
+    {
+      "id": "C149",
+      "name": "Iota Prime",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 21.1,
+      "year": 2023
+    },
+    {
+      "id": "C150",
+      "name": "Nexus Eight",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 22.5,
+      "year": 2023
+    },
+    {
+      "id": "C151",
+      "name": "Delta Five",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 17.4,
+      "year": 2023
+    },
+    {
+      "id": "C152",
+      "name": "Epsilon Ten",
+      "category": "Type C",
+      "size_class": "Small",
+      "value": 21.2,
+      "year": 2023
+    },
+    {
+      "id": "C153",
+      "name": "Upsilon Two",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 36.0,
+      "year": 2023
+    },
+    {
+      "id": "C154",
+      "name": "Wave Four",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 40.5,
+      "year": 2023
+    },
+    {
+      "id": "C155",
+      "name": "Helix Five",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 34.0,
+      "year": 2023
+    },
+    {
+      "id": "C156",
+      "name": "Wave Major",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 37.9,
+      "year": 2023
+    },
+    {
+      "id": "C157",
+      "name": "Xi Five",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 45.8,
+      "year": 2023
+    },
+    {
+      "id": "C158",
+      "name": "Alpha Seven",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 40.8,
+      "year": 2023
+    },
+    {
+      "id": "C159",
+      "name": "Tau One",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 41.5,
+      "year": 2023
+    },
+    {
+      "id": "C160",
+      "name": "Omicron Star",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 38.6,
+      "year": 2023
+    },
+    {
+      "id": "C161",
+      "name": "Unity Prime",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 35.4,
+      "year": 2023
+    },
+    {
+      "id": "C162",
+      "name": "Kappa Star",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 42.4,
+      "year": 2023
+    },
+    {
+      "id": "C163",
+      "name": "Delta Three",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 42.1,
+      "year": 2023
+    },
+    {
+      "id": "C164",
+      "name": "Helix Two",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 44.5,
+      "year": 2023
+    },
+    {
+      "id": "C165",
+      "name": "Apex Five",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 31.1,
+      "year": 2023
+    },
+    {
+      "id": "C166",
+      "name": "Flux Major",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 41.1,
+      "year": 2023
+    },
+    {
+      "id": "C167",
+      "name": "Zeta Four",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 40.6,
+      "year": 2023
+    },
+    {
+      "id": "C168",
+      "name": "Sigma Ten",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 30.4,
+      "year": 2023
+    },
+    {
+      "id": "C169",
+      "name": "Nexus Nine",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 64.8,
+      "year": 2023
+    },
+    {
+      "id": "C170",
+      "name": "Mu Ten",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 35.1,
+      "year": 2023
+    },
+    {
+      "id": "C171",
+      "name": "Core Six",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 44.9,
+      "year": 2023
+    },
+    {
+      "id": "C172",
+      "name": "Lambda Six",
+      "category": "Type C",
+      "size_class": "Medium",
+      "value": 39.0,
+      "year": 2023
+    },
+    {
+      "id": "C173",
+      "name": "Spark One",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 76.7,
+      "year": 2023
+    },
+    {
+      "id": "C174",
+      "name": "Phi Two",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 60.8,
+      "year": 2023
+    },
+    {
+      "id": "C175",
+      "name": "Relay Eight",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 44.8,
+      "year": 2023
+    },
+    {
+      "id": "C176",
+      "name": "Omega Ten",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 63.1,
+      "year": 2023
+    },
+    {
+      "id": "C177",
+      "name": "Spark Three",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 65.3,
+      "year": 2023
+    },
+    {
+      "id": "C178",
+      "name": "Orbit Two",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 60.4,
+      "year": 2023
+    },
+    {
+      "id": "C179",
+      "name": "Pi Major",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 101.2,
+      "year": 2023
+    },
+    {
+      "id": "C180",
+      "name": "Theta Eight",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 62.2,
+      "year": 2023
+    },
+    {
+      "id": "C181",
+      "name": "Kappa Eight",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 64.0,
+      "year": 2023
+    },
+    {
+      "id": "C182",
+      "name": "Nexus Eight",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 63.1,
+      "year": 2023
+    },
+    {
+      "id": "C183",
+      "name": "Nova Four",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 58.2,
+      "year": 2023
+    },
+    {
+      "id": "C184",
+      "name": "Sigma Minor",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 74.9,
+      "year": 2023
+    },
+    {
+      "id": "C185",
+      "name": "Pulse Five",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 55.7,
+      "year": 2023
+    },
+    {
+      "id": "C186",
+      "name": "Orbit Plus",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 62.3,
+      "year": 2023
+    },
+    {
+      "id": "C187",
+      "name": "Psi Six",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 73.6,
+      "year": 2023
+    },
+    {
+      "id": "C188",
+      "name": "Nu Major",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 59.2,
+      "year": 2023
+    },
+    {
+      "id": "C189",
+      "name": "Core One",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 66.7,
+      "year": 2023
+    },
+    {
+      "id": "C190",
+      "name": "Kappa Eight",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 70.7,
+      "year": 2023
+    },
+    {
+      "id": "C191",
+      "name": "Unity Six",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 61.6,
+      "year": 2023
+    },
+    {
+      "id": "C192",
+      "name": "Ion One",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 57.3,
+      "year": 2023
+    },
+    {
+      "id": "C193",
+      "name": "Kappa Two",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 68.0,
+      "year": 2023
+    },
+    {
+      "id": "C194",
+      "name": "Zeta Plus",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 59.5,
+      "year": 2023
+    },
+    {
+      "id": "C195",
+      "name": "Relay Seven",
+      "category": "Type C",
+      "size_class": "Large",
+      "value": 73.9,
+      "year": 2023
+    }
+  ]
+}
