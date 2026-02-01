@@ -5,44 +5,25 @@
 <article class="prose about">
 	<h1>About The Plimsoll Line</h1>
 
-	<h2>The Mark on the Hull</h2>
-
 	<p>
-		In the 1860s and 1870s, unseaworthy and overloaded ships were a routine cause of death
-		among British merchant sailors. Shipowners, many of them members of Parliament,
-		profited from the practice — vessels were heavily insured, and losses at sea were
-		simply a cost of business. The sailors who drowned had no such safety net.
+		In the 1870s, Samuel Plimsoll put the spotlight on British shipowners who were
+		overloading vessels — systemic behavior that was killing sailors. The data on
+		ship losses was public. The behavior was happening in the open. Plimsoll didn't
+		uncover a secret; he focused attention on something everyone could have seen.
+		The painted line on the hull made the behavior legible to anyone who looked.
 	</p>
 
 	<p>
-		Samuel Plimsoll, a coal merchant turned MP, spent years compiling data on ship losses
-		and campaigning for reform. He was ridiculed, sued, and nearly expelled from
-		Parliament. But public outrage eventually proved impossible to ignore. The Merchant
-		Shipping Act of 1876 made it mandatory to paint a load line on the hull of every
-		cargo vessel — the Plimsoll line. If the waterline rose above the mark, the ship
-		was overloaded.
+		This blog does the same. Each story spotlights systemic behavior using public
+		data. The data was already there. The behavior was already visible. What was
+		missing was the framing — a way to focus on it and tell it as a story.
+		Each story includes an interactive exploration, so readers can see the data
+		for themselves and draw their own conclusions.
 	</p>
 
 	<p>
-		The Plimsoll line doesn't say "this ship is bad." It just shows where the waterline
-		sits relative to the mark. Anyone looking can draw their own conclusion.
-	</p>
-
-	<h2>What This Is</h2>
-
-	<p>
-		The Plimsoll Line is a research blog that uses public data to tell stories worth
-		reflecting over. Each story includes an interactive exploration — a way for
-		readers to see the data for themselves and form their own conclusions. The editorial
-		stance is revelation, not judgment. The data is the point.
-	</p>
-
-	<h2>Who</h2>
-
-	<p>
-		This blog is written by
-		<a href="https://github.com/freol35241" target="_blank" rel="noopener noreferrer">freol35241</a>,
-		a researcher interested in making data visible.
+		Written by
+		<a href="https://github.com/freol35241" target="_blank" rel="noopener noreferrer">freol35241</a>.
 	</p>
 </article>
 
@@ -54,10 +35,6 @@
 
 	h1 {
 		margin-bottom: 2rem;
-	}
-
-	h2 {
-		color: var(--color-text);
 	}
 
 	p {

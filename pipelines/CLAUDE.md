@@ -22,6 +22,8 @@ pipelines/<story-slug>/
 
 ## Reproducibility
 
+This blog spotlights systemic behavior using data that is already public. Preserving the raw data and documenting its source means anyone can verify what we did — the same transparency we ask of the systems we spotlight.
+
 Pipelines must be fully reproducible:
 
 1. **Raw data is preserved** — never modify files in `raw/`. If the source changes, download a new copy alongside the old one.

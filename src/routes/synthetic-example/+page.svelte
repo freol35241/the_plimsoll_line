@@ -61,9 +61,9 @@
 	</p>
 
 	<p>
-		This is synthetic data, created to demonstrate the pattern. In a real story, the
+		This is synthetic data, created to demonstrate the approach. In a real story, the
 		items would be ships, factories, schools, or any population where peer comparison
-		reveals something worth knowing.
+		spotlights systemic behavior worth examining.
 	</p>
 </article>
 
