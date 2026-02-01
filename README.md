@@ -1,10 +1,10 @@
 # The Plimsoll Line
 
-Data stories that reveal something worth reflecting over.
+A spotlight on systemic behavior.
 
-Each story uses public data, made interactive so readers can explore and draw their own conclusions. The editorial stance is revelation, not judgment — the data is the point.
+Each story spotlights systemic behavior using public data, made interactive so readers can explore and draw their own conclusions. The data was already there; what was missing was the framing.
 
-Named after [Samuel Plimsoll](https://en.wikipedia.org/wiki/Samuel_Plimsoll), who in the 1870s used data and public outrage to force the marking of load lines on ships — a visible mark anyone could read.
+Named after [Samuel Plimsoll](https://en.wikipedia.org/wiki/Samuel_Plimsoll), who in the 1870s put the spotlight on British shipowners overloading vessels — systemic behavior that was killing sailors. The painted line on the hull made the behavior visible to anyone who looked.
 
 ## Development
 

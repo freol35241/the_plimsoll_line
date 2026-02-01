@@ -4,7 +4,7 @@
 	const stories = [
 		{
 			title: 'The Distribution of Fictional Values',
-			description: 'Synthetic data reveals a 2–3× spread in measured values within peer groups — a pattern worth exploring.',
+			description: 'Synthetic data shows a 2–3× spread in measured values within peer groups — behavior worth examining.',
 			date: '2025-01-15',
 			slug: 'synthetic-example'
 		}
@@ -18,7 +18,7 @@
 <section class="landing">
 	<div class="intro">
 		<h1>The Plimsoll Line</h1>
-		<p class="tagline">Data stories that reveal something worth reflecting over.</p>
+		<p class="tagline">A spotlight on systemic behavior.</p>
 	</div>
 
 	<div class="stories">
