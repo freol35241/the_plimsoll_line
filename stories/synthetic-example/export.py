@@ -35,7 +35,7 @@ def main() -> None:
             "generated": date.today().isoformat(),
             "description": "Synthetic data for demonstration — fictional items with measured values across categories and size classes",
             "units": "fictional units",
-            "source": "Generated synthetically (see pipelines/synthetic-example/)",
+            "source": "Generated synthetically (see stories/synthetic-example/)",
         },
         "items": items,
     }

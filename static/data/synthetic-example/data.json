@@ -3,7 +3,7 @@
     "generated": "2026-01-31",
     "description": "Synthetic data for demonstration \u2014 fictional items with measured values across categories and size classes",
     "units": "fictional units",
-    "source": "Generated synthetically (see pipelines/synthetic-example/)"
+    "source": "Generated synthetically (see stories/synthetic-example/)"
   },
   "items": [
     {

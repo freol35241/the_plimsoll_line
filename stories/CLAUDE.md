@@ -4,12 +4,12 @@ You are working on data pipelines for **The Plimsoll Line**.
 
 ## Purpose
 
-Each pipeline fetches, cleans, and transforms raw data into the JSON format consumed by the frontend. Pipelines live in `pipelines/<story-slug>/` and export to `static/data/<story-slug>/`.
+Each pipeline fetches, cleans, and transforms raw data into the JSON format consumed by the frontend. Pipelines live in `stories/<story-slug>/` and export to `static/data/<story-slug>/`.
 
 ## Pipeline Structure
 
 ```
-pipelines/<story-slug>/
+stories/<story-slug>/
 ├── README.md              # What this pipeline does, how to run it
 ├── raw/                   # Raw data (preserved as-is)
 │   ├── <data files>       # Original downloaded/scraped files

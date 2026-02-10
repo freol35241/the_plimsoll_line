@@ -7,4 +7,4 @@ build/
 .DS_Store
 *.pyc
 __pycache__/
-pipelines/*/processed.csv
+stories/*/processed.csv

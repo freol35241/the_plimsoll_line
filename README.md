@@ -15,10 +15,10 @@ npm run dev
 
 ## Data Pipelines
 
-Each story has a data pipeline in `pipelines/<story-slug>/`:
+Each story has a data pipeline in `stories/<story-slug>/`:
 
 ```bash
-cd pipelines/synthetic-example
+cd stories/synthetic-example
 pip install -r requirements.txt
 python generate.py
 python process.py

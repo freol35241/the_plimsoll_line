@@ -38,7 +38,7 @@ The confrontation emerges from the behavior being in focus, not from pointing fi
 │   └── app.html          # HTML shell
 ├── static/               # Static assets and exported data
 │   └── data/             # Exported JSON for each story
-├── pipelines/            # Data pipelines (one folder per story)
+├── stories/              # Data pipelines (one folder per story)
 └── .github/workflows/    # CI/CD
 ```
 
@@ -54,9 +54,9 @@ When working on The Plimsoll Line, you may delegate to specialized agents:
 - Keeps prose concise; the interactive is the main event, not the text around it
 
 ### Data Agent
-- Works in `pipelines/`
+- Works in `stories/`
 - Handles data fetching, cleaning, and processing
-- Follows the pipeline conventions in `pipelines/CLAUDE.md`
+- Follows the pipeline conventions in `stories/CLAUDE.md`
 - Ensures reproducibility and source documentation
 - Exports clean JSON to `static/data/<story-slug>/`
 
@@ -84,7 +84,7 @@ When working on The Plimsoll Line, you may delegate to specialized agents:
 
 The workflow for adding a new story:
 
-1. **Create the data pipeline** in `pipelines/<story-slug>/`
+1. **Create the data pipeline** in `stories/<story-slug>/`
    - Add `SOURCE.md` documenting where data comes from
    - Write `process.py` to clean and transform raw data
    - Write `export.py` to produce JSON for the frontend
@@ -106,7 +106,7 @@ The workflow for adding a new story:
 
 - **SvelteKit** with static adapter (deployed to GitHub Pages)
 - **D3.js** for data visualization
-- **Python** for data pipelines
+- **Python** for data processing (in `stories/`)
 - No CMS, no database, no server — everything is static
 
 ## Editorial Voice

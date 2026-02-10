@@ -57,7 +57,7 @@ def main() -> None:
     df = validate(df)
 
     # Write processed output (in this case identical to input, but
-    # real pipelines would clean/transform here)
+    # real stories would clean/transform here)
     df.to_csv(PROCESSED_FILE, index=False)
     print(f"\nProcessed data written to {PROCESSED_FILE}")
 
